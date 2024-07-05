@@ -1,6 +1,11 @@
+@media (any-hover) {
+
+
+
+}
+
 
 @media (max-width: 1279px) {
-
 
 
 }
@@ -18,13 +23,7 @@
 }
 
 @media (max-width: 575px) {
-
-
-
-}
-
-@media (any-hover: hover) {
-
+  
 
 
 }
